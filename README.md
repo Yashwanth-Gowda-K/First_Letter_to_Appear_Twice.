@@ -1,0 +1,1 @@
+# First_Letter_to_Appear_Twice.
